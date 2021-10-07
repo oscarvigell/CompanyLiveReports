@@ -12,7 +12,7 @@
  },
  {
    "DisplayName": "Sagax",
-   "Name": "Sagax AB",
+   "Name": "AB Sagax Class B",
    "Ticker": "SAGAA SS",
    "Date": "2021-10-28",
    "Time": "Aft-mkt",
@@ -23,7 +23,7 @@
  },
  {
    "DisplayName": "ABB",
-   "Name": "ABB Ltd",
+   "Name": "ABB Ltd.",
    "Ticker": "ABBN SW",
    "Date": "2021-10-21",
    "Time": "07:00",
@@ -34,7 +34,7 @@
  },
  {
    "DisplayName": "Addtech",
-   "Name": "AddTech AB",
+   "Name": "Addtech AB Class B",
    "Ticker": "ADDTB SS",
    "Date": "2021-10-28",
    "Time": "Bef-mkt",
@@ -45,7 +45,7 @@
  },
  {
    "DisplayName": "Afry",
-   "Name": "AFRY AB",
+   "Name": "AFRY AB Class B",
    "Ticker": "AFRY SS",
    "Date": "2021-10-26",
    "Time": "07:00",
@@ -67,7 +67,7 @@
  },
  {
    "DisplayName": "Arion Banki",
-   "Name": "Arion Banki HF",
+   "Name": "Arion Banki hf Shs Swedish DR",
    "Ticker": "ARION IR",
    "Date": "2021-10-27",
    "Time": "",
@@ -78,7 +78,7 @@
  },
  {
    "DisplayName": "Arjo",
-   "Name": "Arjo AB",
+   "Name": "Arjo AB Class B",
    "Ticker": "ARJOB SS",
    "Date": "2021-10-28",
    "Time": "Bef-mkt",
@@ -89,7 +89,7 @@
  },
  {
    "DisplayName": "Assa Abloy",
-   "Name": "Assa Abloy AB",
+   "Name": "ASSA ABLOY AB Class B",
    "Ticker": "ASSAB SS",
    "Date": "2021-10-27",
    "Time": "08:00",
@@ -111,7 +111,7 @@
  },
  {
    "DisplayName": "Atlas Copco",
-   "Name": "Atlas Copco AB",
+   "Name": "Atlas Copco AB Class A",
    "Ticker": "ATCOA SS",
    "Date": "2021-10-21",
    "Time": "",
@@ -122,7 +122,7 @@
  },
  {
    "DisplayName": "Atrium Ljungberg",
-   "Name": "Atrium Ljungberg AB",
+   "Name": "Atrium Ljungberg AB Class B",
    "Ticker": "ATRLJB SS",
    "Date": "2021-10-15",
    "Time": "07:30",
@@ -133,7 +133,7 @@
  },
  {
    "DisplayName": "Autoliv",
-   "Name": "Autoliv Inc",
+   "Name": "Autoliv Inc Shs Swedish DR",
    "Ticker": "ALV US",
    "Date": "2021-10-22",
    "Time": "Bef-mkt",
@@ -166,7 +166,7 @@
  },
  {
    "DisplayName": "Beijer Ref",
-   "Name": "Beijer Ref AB",
+   "Name": "Beijer Ref AB Class B",
    "Ticker": "BEIJB SS",
    "Date": "2021-10-19",
    "Time": "Bef-mkt",
@@ -177,7 +177,7 @@
  },
  {
    "DisplayName": "Betsson",
-   "Name": "Betsson AB",
+   "Name": "Betsson AB Class B",
    "Ticker": "BETSB SS",
    "Date": "2021-10-26",
    "Time": "Bef-mkt",
@@ -276,7 +276,7 @@
  },
  {
    "DisplayName": "Corem Property",
-   "Name": "Corem Property Group AB",
+   "Name": "Corem Property Group AB Class B",
    "Ticker": "COREA SS",
    "Date": "2021-10-27",
    "Time": "",
@@ -298,7 +298,7 @@
  },
  {
    "DisplayName": "Electrolux",
-   "Name": "Electrolux AB",
+   "Name": "Electrolux AB Class B",
    "Ticker": "ELUXB SS",
    "Date": "2021-10-27",
    "Time": "Bef-mkt",
@@ -309,7 +309,7 @@
  },
  {
    "DisplayName": "Electrolux",
-   "Name": "Electrolux Professional AB",
+   "Name": "Electrolux Professional AB Class B",
    "Ticker": "EPROB SS",
    "Date": "2021-10-28",
    "Time": "Bef-mkt",
@@ -320,7 +320,7 @@
  },
  {
    "DisplayName": "Elekta",
-   "Name": "Elekta",
+   "Name": "Elekta AB Class B",
    "Ticker": "EKTAB SS",
    "Date": "2021-11-25",
    "Time": "Bef-mkt",
@@ -331,7 +331,7 @@
  },
  {
    "DisplayName": "Epiroc",
-   "Name": "Epiroc AB",
+   "Name": "Epiroc AB Class A",
    "Ticker": "EPIA SS",
    "Date": "2021-10-21",
    "Time": "",
@@ -342,7 +342,7 @@
  },
  {
    "DisplayName": "EQT",
-   "Name": "EQT",
+   "Name": "EQT AB",
    "Ticker": "",
    "Date": "2021-10-20",
    "Time": "",
@@ -353,7 +353,7 @@
  },
  {
    "DisplayName": "Essity",
-   "Name": "Essity AB",
+   "Name": "Essity AB Class B",
    "Ticker": "ESSITYA SS",
    "Date": "2021-10-22",
    "Time": "Bef-mkt",
@@ -386,7 +386,7 @@
  },
  {
    "DisplayName": "Balder",
-   "Name": "Fastighets AB Balder",
+   "Name": "Fastighets AB Balder Class B",
    "Ticker": "BALDB SS",
    "Date": "2021-11-11",
    "Time": "Bef-mkt",
@@ -408,7 +408,7 @@
  },
  {
    "DisplayName": "Fenix Outdoor",
-   "Name": "Fenix Outdoor International AG",
+   "Name": "Fenix Outdoor International AG Series B",
    "Ticker": "FOIB SS",
    "Date": "2021-10-29",
    "Time": "",
@@ -419,7 +419,7 @@
  },
  {
    "DisplayName": "Getinge",
-   "Name": "Getinge AB",
+   "Name": "Getinge AB Class B",
    "Ticker": "GETIB SS",
    "Date": "2021-10-20",
    "Time": "Bef-mkt",
@@ -430,7 +430,7 @@
  },
  {
    "DisplayName": "H&M",
-   "Name": "H & M Hennes & Mauritz AB",
+   "Name": "H&M Hennes & Mauritz AB Class B",
    "Ticker": "HMB SS",
    "Date": "2021-09-30",
    "Time": "",
@@ -452,7 +452,7 @@
  },
  {
    "DisplayName": "Hexagon",
-   "Name": "Hexagon AB",
+   "Name": "Hexagon AB Class B",
    "Ticker": "HEXAB SS",
    "Date": "2021-10-28",
    "Time": "Bef-mkt",
@@ -463,7 +463,7 @@
  },
  {
    "DisplayName": "Hexpol",
-   "Name": "Hexpol AB",
+   "Name": "HEXPOL AB Class B",
    "Ticker": "HPOLB SS",
    "Date": "2021-10-22",
    "Time": "Bef-mkt",
@@ -474,7 +474,7 @@
  },
  {
    "DisplayName": "Holmen",
-   "Name": "Holmen AB",
+   "Name": "Holmen AB Class B",
    "Ticker": "HOLMB SS",
    "Date": "2021-10-22",
    "Time": "Bef-mkt",
@@ -485,7 +485,7 @@
  },
  {
    "DisplayName": "Hufvudstaden",
-   "Name": "Hufvudstaden AB",
+   "Name": "Hufvudstaden AB Class A",
    "Ticker": "HUFVA SS",
    "Date": "2021-11-11",
    "Time": "",
@@ -496,7 +496,7 @@
  },
  {
    "DisplayName": "Husqvarna",
-   "Name": "Husqvarna AB",
+   "Name": "Husqvarna AB Class B",
    "Ticker": "HUSQB SS",
    "Date": "2021-10-20",
    "Time": "Bef-mkt",
@@ -518,7 +518,7 @@
  },
  {
    "DisplayName": "Industrivarden",
-   "Name": "Industrivarden AB",
+   "Name": "Industrivarden AB Class C",
    "Ticker": "INDUA SS",
    "Date": "2021-10-11",
    "Time": "",
@@ -551,7 +551,7 @@
  },
  {
    "DisplayName": "Investor",
-   "Name": "Investor AB",
+   "Name": "Investor AB Class B",
    "Ticker": "INVEB SS",
    "Date": "2021-10-18",
    "Time": "Bef-mkt",
@@ -573,7 +573,7 @@
  },
  {
    "DisplayName": "Kindred",
-   "Name": "Kindred Group PLC",
+   "Name": "Kindred Group plc Shs Swedish Depository Receipts",
    "Ticker": "KINDSDB SS",
    "Date": "2021-10-27",
    "Time": "07:30",
@@ -584,7 +584,7 @@
  },
  {
    "DisplayName": "Kinnevik",
-   "Name": "Kinnevik AB",
+   "Name": "Kinnevik AB Class B",
    "Ticker": "KINVB SS",
    "Date": "2021-10-20",
    "Time": "08:00",
@@ -606,7 +606,7 @@
  },
  {
    "DisplayName": "Lundbergforetagen",
-   "Name": "L E Lundbergforetagen AB",
+   "Name": "L E Lundbergforetagen AB Class B",
    "Ticker": "LUNDB SS",
    "Date": "2021-11-24",
    "Time": "",
@@ -617,7 +617,7 @@
  },
  {
    "DisplayName": "Latour",
-   "Name": "Investment AB Latour",
+   "Name": "Latour AB Investment Class B",
    "Ticker": "LATOB SS",
    "Date": "2021-11-09",
    "Time": "08:30",
@@ -628,7 +628,7 @@
  },
  {
    "DisplayName": "Lifco",
-   "Name": "Lifco AB",
+   "Name": "Lifco AB Class B",
    "Ticker": "LIFCOB SS",
    "Date": "2021-10-22",
    "Time": "Bef-mkt",
@@ -661,7 +661,7 @@
  },
  {
    "DisplayName": "Lundin Mining",
-   "Name": "Lundin Mining Corp",
+   "Name": "Lundin Mining Corporation",
    "Ticker": "LUN CN",
    "Date": "2021-10-27",
    "Time": "Aft-mkt",
@@ -672,7 +672,7 @@
  },
  {
    "DisplayName": "Medicover",
-   "Name": "Medicover AB",
+   "Name": "Medicover AB Class B",
    "Ticker": "MCOVB SS",
    "Date": "2021-11-03",
    "Time": "Bef-mkt",
@@ -683,7 +683,7 @@
  },
  {
    "DisplayName": "Millicom",
-   "Name": "Millicom International Cellula",
+   "Name": "Millicom International Cellular SA Swedish Depository Receipt",
    "Ticker": "TIGO US",
    "Date": "2021-10-28",
    "Time": "Bef-mkt",
@@ -705,7 +705,7 @@
  },
  {
    "DisplayName": "NCC",
-   "Name": "NCC AB",
+   "Name": "NCC AB Class B",
    "Ticker": "NCCB SS",
    "Date": "2021-11-02",
    "Time": "Bef-mkt",
@@ -716,7 +716,7 @@
  },
  {
    "DisplayName": "Nibe",
-   "Name": "Nibe Industrier AB",
+   "Name": "NIBE Industrier AB Class B",
    "Ticker": "NIBEB SS",
    "Date": "2021-11-17",
    "Time": "Bef-mkt",
@@ -738,7 +738,7 @@
  },
  {
    "DisplayName": "Nolato",
-   "Name": "Nolato AB",
+   "Name": "Nolato AB Class B",
    "Ticker": "NOLAB SS",
    "Date": "2021-10-28",
    "Time": "",
@@ -760,7 +760,7 @@
  },
  {
    "DisplayName": "Nent",
-   "Name": "Nordic Entertainment Group AB",
+   "Name": "Nordic Entertainment Group AB Class B",
    "Ticker": "NENTB SS",
    "Date": "2021-10-26",
    "Time": "Bef-mkt",
@@ -771,7 +771,7 @@
  },
  {
    "DisplayName": "Nordnet",
-   "Name": "Nordnet AB publ",
+   "Name": "Nordnet AB",
    "Ticker": "SAVE SS",
    "Date": "2021-10-29",
    "Time": "08:00",
@@ -793,7 +793,7 @@
  },
  {
    "DisplayName": "Pandox",
-   "Name": "Pandox AB",
+   "Name": "Pandox AB Class B",
    "Ticker": "PNDXB SS",
    "Date": "2021-10-27",
    "Time": "",
@@ -804,7 +804,7 @@
  },
  {
    "DisplayName": "Peab",
-   "Name": "Peab AB",
+   "Name": "Peab AB Class B",
    "Ticker": "PEABB SS",
    "Date": "2021-10-27",
    "Time": "",
@@ -815,7 +815,7 @@
  },
  {
    "DisplayName": "Platzer Fastigheter",
-   "Name": "Platzer Fastigheter Holding AB",
+   "Name": "Platzer Fastigheter Holding AB Class B",
    "Ticker": "PLAZB SS",
    "Date": "2021-10-19",
    "Time": "08:00",
@@ -826,7 +826,7 @@
  },
  {
    "DisplayName": "Ratos",
-   "Name": "Ratos AB",
+   "Name": "Ratos AB Class B",
    "Ticker": "RATOB SS",
    "Date": "2021-10-25",
    "Time": "Bef-mkt",
@@ -848,7 +848,7 @@
  },
  {
    "DisplayName": "Saab",
-   "Name": "Saab AB",
+   "Name": "Saab AB Class B",
    "Ticker": "SAABB SS",
    "Date": "2021-10-22",
    "Time": "Bef-mkt",
@@ -859,7 +859,7 @@
  },
  {
    "DisplayName": "SBB",
-   "Name": "Samhallsbyggnadsbolaget i Nord",
+   "Name": "Samhallsbyggnadsbolaget I Norden AB Class B",
    "Ticker": "HEM SS",
    "Date": "2021-11-04",
    "Time": "Bef-mkt",
@@ -881,7 +881,7 @@
  },
  {
    "DisplayName": "Sdiptech",
-   "Name": "Sdiptech AB",
+   "Name": "Sdiptech AB Class B",
    "Ticker": "SDIPB SS",
    "Date": "2021-10-26",
    "Time": "Bef-mkt",
@@ -892,7 +892,7 @@
  },
  {
    "DisplayName": "Sectra",
-   "Name": "Sectra",
+   "Name": "Sectra AB Class B",
    "Ticker": "",
    "Date": "2021-12-10",
    "Time": "",
@@ -903,7 +903,7 @@
  },
  {
    "DisplayName": "Securitas",
-   "Name": "Securitas AB",
+   "Name": "Securitas AB Class B",
    "Ticker": "SECUB SS",
    "Date": "2021-10-29",
    "Time": "13:00",
@@ -925,7 +925,7 @@
  },
  {
    "DisplayName": "SEB",
-   "Name": "Skandinaviska Enskilda Banken",
+   "Name": "Skandinaviska Enskilda Banken AB Class A",
    "Ticker": "SEBA SS",
    "Date": "2021-10-20",
    "Time": "00:00",
@@ -936,7 +936,7 @@
  },
  {
    "DisplayName": "Skanska",
-   "Name": "Skanska AB",
+   "Name": "Skanska AB Class B",
    "Ticker": "SKAB SS",
    "Date": "2021-10-28",
    "Time": "07:30",
@@ -947,7 +947,7 @@
  },
  {
    "DisplayName": "SKF",
-   "Name": "SKF AB",
+   "Name": "SKF AB Class B",
    "Ticker": "SKFB SS",
    "Date": "2021-10-26",
    "Time": "Bef-mkt",
@@ -958,7 +958,7 @@
  },
  {
    "DisplayName": "SSAB",
-   "Name": "SSAB AB",
+   "Name": "SSAB AB Class A",
    "Ticker": "SSABA SS",
    "Date": "2021-10-25",
    "Time": "07:30",
@@ -969,7 +969,7 @@
  },
  {
    "DisplayName": "Stillfront",
-   "Name": "Stillfront",
+   "Name": "Stillfront Group AB",
    "Ticker": "",
    "Date": "2021-11-10",
    "Time": "",
@@ -980,7 +980,7 @@
  },
  {
    "DisplayName": "Stora Enso",
-   "Name": "Stora Enso Oyj",
+   "Name": "Stora Enso Oyj Class R(Alien Mkt)",
    "Ticker": "STERV FH",
    "Date": "2021-10-20",
    "Time": "07:30",
@@ -991,7 +991,7 @@
  },
  {
    "DisplayName": "SCA",
-   "Name": "Svenska Cellulosa AB SCA",
+   "Name": "Svenska Cellulosa Aktiebolaget Class B",
    "Ticker": "SCAB SS",
    "Date": "2021-10-29",
    "Time": "Bef-mkt",
@@ -1002,7 +1002,7 @@
  },
  {
    "DisplayName": "Handelsbanken",
-   "Name": "Svenska Handelsbanken AB",
+   "Name": "Svenska Handelsbanken AB Class A",
    "Ticker": "SHBA SS",
    "Date": "2021-10-20",
    "Time": "Bef-mkt",
@@ -1013,7 +1013,7 @@
  },
  {
    "DisplayName": "Sweco",
-   "Name": "Sweco AB",
+   "Name": "Sweco AB Class B",
    "Ticker": "SWECB SS",
    "Date": "2021-10-29",
    "Time": "07:20",
@@ -1024,7 +1024,7 @@
  },
  {
    "DisplayName": "Swedbank",
-   "Name": "Swedbank AB",
+   "Name": "Swedbank AB Class A",
    "Ticker": "SWEDA SS",
    "Date": "2021-10-21",
    "Time": "Bef-mkt",
@@ -1057,7 +1057,7 @@
  },
  {
    "DisplayName": "Tele2",
-   "Name": "Tele2 AB",
+   "Name": "Tele2 AB Class B",
    "Ticker": "TEL2B SS",
    "Date": "2021-10-19",
    "Time": "07:00",
@@ -1068,7 +1068,7 @@
  },
  {
    "DisplayName": "Ericsson",
-   "Name": "Telefonaktiebolaget LM Ericsso",
+   "Name": "Telefonaktiebolaget LM Ericsson Class B",
    "Ticker": "ERICB SS",
    "Date": "2021-10-19",
    "Time": "",
@@ -1079,7 +1079,7 @@
  },
  {
    "DisplayName": "Telia",
-   "Name": "Telia Co AB",
+   "Name": "Telia Company AB",
    "Ticker": "TELIA SS",
    "Date": "2021-10-21",
    "Time": "Bef-mkt",
@@ -1112,7 +1112,7 @@
  },
  {
    "DisplayName": "Traton",
-   "Name": "Traton SE",
+   "Name": "TRATON SE",
    "Ticker": "8TRA GR",
    "Date": "2021-10-29",
    "Time": "",
@@ -1123,7 +1123,7 @@
  },
  {
    "DisplayName": "Trelleborg",
-   "Name": "Trelleborg AB",
+   "Name": "Trelleborg AB Class B",
    "Ticker": "TRELB SS",
    "Date": "2021-10-27",
    "Time": "Bef-mkt",
@@ -1134,7 +1134,7 @@
  },
  {
    "DisplayName": "Veoneer",
-   "Name": "Veoneer Inc",
+   "Name": "Veoneer, Inc. Shs Swedish Depository Receipt",
    "Ticker": "VNE US",
    "Date": "2021-10-22",
    "Time": "",
@@ -1156,7 +1156,7 @@
  },
  {
    "DisplayName": "Volvo",
-   "Name": "Volvo AB",
+   "Name": "Volvo AB Class B",
    "Ticker": "VOLVB SS",
    "Date": "2021-10-21",
    "Time": "07:20",
@@ -1167,7 +1167,7 @@
  },
  {
    "DisplayName": "Wallenstam",
-   "Name": "Wallenstam AB",
+   "Name": "Wallenstam AB Class B",
    "Ticker": "WALLB SS",
    "Date": "2021-10-22",
    "Time": "Bef-mkt",
